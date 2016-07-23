@@ -1,0 +1,20 @@
+{
+  "name": "bullet_journal",
+  "version": "1.0.0",
+  "description": "Online Bullet Journal-like App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigolc/bullet_journal"
+  },
+  "keywords": [
+    "bullet",
+    "journal",
+    "app"
+  ],
+  "author": "Rodrigo Lopes",
+  "license": "ISC"
+}
